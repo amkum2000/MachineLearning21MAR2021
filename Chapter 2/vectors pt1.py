@@ -19,3 +19,9 @@ for i, value in enumerate(sizes):
     sizes[i] = value * 0.3
 
 print(sizes)
+print("amit personal code")
+import numpy as np
+
+listofvalue = np.array([12,3433])
+listofvalue = listofvalue * 0.2
+print(listofvalue)
