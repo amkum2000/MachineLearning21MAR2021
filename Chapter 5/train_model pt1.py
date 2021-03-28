@@ -11,7 +11,7 @@ df = pd.read_csv("ml_house_data_set.csv")
 
 
 # Replace categorical data with one-hot encoded data
-features_df =
+features_df = 
 
 # Remove the sale price from the feature data
 
